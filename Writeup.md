@@ -128,7 +128,7 @@ I calculated the radius of curvature of the lane and position to the vehicle wit
 
 I implemented this step in  In[8] cell in the function `display_lane()`.  Here is an example of my result on a test image:
 
-![test6_curvature_offset.jpg](output_images/test6_curvature_offset.jpg)
+![test6_curvature_offset.jpg](output_images/test6_curve_offset.jpg)
 
 ---
 
